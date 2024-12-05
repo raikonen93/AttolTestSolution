@@ -1,0 +1,14 @@
+D:\GitHub\AttolTest\AttolTest\AttolTest\bin\Debug\net8.0\AttolTest.exe
+D:\GitHub\AttolTest\AttolTest\AttolTest\bin\Debug\net8.0\AttolTest.deps.json
+D:\GitHub\AttolTest\AttolTest\AttolTest\bin\Debug\net8.0\AttolTest.runtimeconfig.json
+D:\GitHub\AttolTest\AttolTest\AttolTest\bin\Debug\net8.0\AttolTest.dll
+D:\GitHub\AttolTest\AttolTest\AttolTest\bin\Debug\net8.0\AttolTest.pdb
+D:\GitHub\AttolTest\AttolTest\AttolTest\obj\Debug\net8.0\AttolTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AttolTest\AttolTest\AttolTest\obj\Debug\net8.0\AttolTest.AssemblyInfoInputs.cache
+D:\GitHub\AttolTest\AttolTest\AttolTest\obj\Debug\net8.0\AttolTest.AssemblyInfo.cs
+D:\GitHub\AttolTest\AttolTest\AttolTest\obj\Debug\net8.0\AttolTest.csproj.CoreCompileInputs.cache
+D:\GitHub\AttolTest\AttolTest\AttolTest\obj\Debug\net8.0\AttolTest.dll
+D:\GitHub\AttolTest\AttolTest\AttolTest\obj\Debug\net8.0\refint\AttolTest.dll
+D:\GitHub\AttolTest\AttolTest\AttolTest\obj\Debug\net8.0\AttolTest.pdb
+D:\GitHub\AttolTest\AttolTest\AttolTest\obj\Debug\net8.0\AttolTest.genruntimeconfig.cache
+D:\GitHub\AttolTest\AttolTest\AttolTest\obj\Debug\net8.0\ref\AttolTest.dll
