@@ -37,3 +37,21 @@ CREATE TABLE OrderProducts (
     FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
 );
 Go
+
+CREATE VIEW OrderSummary AS
+SELECT 
+    o.OrderID,
+    o.OrderDate,
+    c.CustomerName,
+    SUM(op.Quantity * p.Price) AS TotalAmount
+FROM 
+    Orders o
+JOIN 
+    Customers c ON o.CustomerID = c.CustomerID
+JOIN 
+    OrderProducts op ON o.OrderID = op.OrderID
+JOIN 
+    Products p ON op.ProductID = p.ProductID
+GROUP BY 
+    o.OrderID, o.OrderDate, c.CustomerName;
+GO
