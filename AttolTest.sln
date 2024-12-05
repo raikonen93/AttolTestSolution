@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{8F741E21-C39
 	ProjectSection(SolutionItems) = preProject
 		..\db.bacpac = ..\db.bacpac
 		SQLQuery.sql = SQLQuery.sql
+		..\SQLQueryCreateTables.sql = ..\SQLQueryCreateTables.sql
 	EndProjectSection
 EndProject
 Global
