@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\AttolTest\\AttolTest\\AttolTest\\AttolTest.csproj",
+      "projectUniqueName": "D:\\GitHub\\AttolTest\\AttolTestSolution\\AttolTest\\AttolTest.csproj",
       "projectName": "AttolTest",
-      "projectPath": "D:\\GitHub\\AttolTest\\AttolTest\\AttolTest\\AttolTest.csproj",
+      "projectPath": "D:\\GitHub\\AttolTest\\AttolTestSolution\\AttolTest\\AttolTest.csproj",
       "packagesPath": "C:\\Users\\Yevhen\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\AttolTest\\AttolTest\\AttolTest\\obj\\",
+      "outputPath": "D:\\GitHub\\AttolTest\\AttolTestSolution\\AttolTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yevhen\\AppData\\Roaming\\NuGet\\NuGet.Config",

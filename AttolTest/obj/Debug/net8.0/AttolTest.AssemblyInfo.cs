@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AttolTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3119167700e088741fa99a75403671fd927ad624")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff191b452508b28b8e1ab145bcdcd1dca587ce63")]
 [assembly: System.Reflection.AssemblyProductAttribute("AttolTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AttolTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
